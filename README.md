@@ -45,12 +45,12 @@ disini akan menggunakan terminal
 echo “# Latihan 1” >> README.md
 ````
 
-Untuk menambahkan file yang baru saja dibuat, gunakan command
+2. Untuk menambahkan file yang baru saja dibuat, gunakan command
 ````
 git add README.md
 ````
 
-2. Untuk menyimpan perubahan yang ada pada database repositori 
+3. Untuk menyimpan perubahan yang ada pada database repositori 
 lokal, gunakan command
 ````
 git commit -m
@@ -68,15 +68,14 @@ git commit -m
 5. lalu klik tombol Create repository
 
 ## Menambahkan Remote Repository
-
-1. Remote Repository merupakan  server repositori yang akan  digunakan untuk menyimpan segala perubahan yang dilakukan pada repositori lokal, dan bisa diakses oleh banyak pengguna
-2. Untuk menambahkan remote repository server, gunakan command
+* Remote Repository merupakan  server repositori yang akan  digunakan untuk menyimpan segala perubahan yang dilakukan pada repositori lokal, dan bisa diakses oleh banyak pengguna
+* Untuk menambahkan remote repository server, gunakan command
 ````
 git remote add origin [url]
 ````
 
 ## Mengirim perubahan ke server (Push)
-1. Untuk mengirim perubahan pada repositori lokal ke server, gunakan command
+* Untuk mengirim perubahan pada repositori lokal ke server, gunakan command
 ````
 git push -u origin master
 ````
