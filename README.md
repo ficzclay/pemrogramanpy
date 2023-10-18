@@ -82,7 +82,7 @@ git push -u origin master
 
 ## Clone Repository
 * git clone digunakan untuk mengambil salinan dari repositori Git dari server ke repositori lokal
-* gunakan command ini untuk melakukan kloning
+* gunakan command ini untuk melakukan kloning ke repositori lokal
 ````
 git clone [url]
 ````
