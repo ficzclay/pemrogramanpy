@@ -42,7 +42,7 @@ git init
 
 disini akan menggunakan terminal
 ````
-echo “# Latihan 1” >> README.md
+echo # Latihan 1 >> README.md
 ````
 
 2. Untuk menambahkan file yang baru saja dibuat, gunakan command
